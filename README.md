@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sheetal Hrishikesh Joshi (She/Her)
 
 <!--
 **sheetaljoshi/sheetaljoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+About
+I’m a Senior Developer Advocate at AWS, focused on containers, container orchestration and Kubernetes. I’m currently focusing on CNI, networking, service meshes, and observability. 
+
+I am currently learning challenges in onboarding, managing, and operationalizing service meshes at scale.
+
+I'm looking to collaborate on defining next gen cloud computing at edge, edge containers, kubernetes at edge, network functions, IoT, and SD-WAN. 
+
+I truly enjoy solving customers challenges, working on proof-of-concepts, building distributed and scalable solutions, and problem solving. I am always in for any game day.
