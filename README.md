@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About
+
 I’m a Senior Developer Advocate at AWS, focused on containers, container orchestration and Kubernetes. I’m currently focusing on CNI, networking, service meshes, and observability. 
 
 I am currently learning challenges in onboarding, managing, and operationalizing service meshes at scale.
