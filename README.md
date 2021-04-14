@@ -22,3 +22,5 @@ I am currently learning challenges in onboarding, managing, and operationalizing
 I'm looking to collaborate on defining next gen cloud computing at edge, edge containers, kubernetes at edge, network functions, IoT, and SD-WAN. 
 
 I truly enjoy solving customers challenges, working on proof-of-concepts, building distributed and scalable solutions, and problem solving. I am always in for any game day.
+
+I currently use mix of Java, Python, Javascript, Golang, Rust and Shell Script.
