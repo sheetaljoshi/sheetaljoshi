@@ -52,6 +52,6 @@ General understanding of Service Mesh, Envoy proxy, Observability, Control Plane
 
 ## Audience Takeaways
 
-* Service Mesh not only provides Observability
+* Service Mesh and observability is also at it’s core
 * Customer position, confusion, and challenges
 * Simplification and ease of use
